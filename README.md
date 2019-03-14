@@ -6,3 +6,5 @@ luofeiioi's Blog
 * [函数式编程](https://github.com/luofeiioi/Blog/issues/2)
 
 * [HTML实现拖拽效果](https://github.com/luofeiioi/Blog/issues/3)
+
+* [Node.js爬虫初试](https://github.com/luofeiioi/Blog/issues/4)
