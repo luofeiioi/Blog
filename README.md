@@ -12,3 +12,5 @@ luofeiioi's Blog
 * [正则表达式](https://github.com/luofeiioi/Blog/issues/5)
 
 * [浏览器的强制缓存和协商缓存](https://github.com/luofeiioi/Blog/issues/6)
+
+* [跨站脚本攻击(XSS)](https://github.com/luofeiioi/Blog/issues/7)
