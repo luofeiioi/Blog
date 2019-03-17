@@ -16,3 +16,5 @@ luofeiioi's Blog
 * [跨站脚本攻击(XSS)](https://github.com/luofeiioi/Blog/issues/7)
 
 * [类和继承](https://github.com/luofeiioi/Blog/issues/8)
+
+* [CSS 粘性布局](https://github.com/luofeiioi/Blog/issues/9)
