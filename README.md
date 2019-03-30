@@ -18,3 +18,5 @@ luofeiioi's Blog
 * [类和继承](https://github.com/luofeiioi/Blog/issues/8)
 
 * [CSS 粘性布局](https://github.com/luofeiioi/Blog/issues/9)
+
+* [JavaScript 事件委托](https://github.com/luofeiioi/Blog/issues/11)
